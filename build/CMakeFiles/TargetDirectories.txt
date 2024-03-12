@@ -1,0 +1,6 @@
+/home/luis/Desktop/SETR/MyDLL/build/CMakeFiles/maindemo.dir
+/home/luis/Desktop/SETR/MyDLL/build/CMakeFiles/edit_cache.dir
+/home/luis/Desktop/SETR/MyDLL/build/CMakeFiles/rebuild_cache.dir
+/home/luis/Desktop/SETR/MyDLL/build/LibFolder/CMakeFiles/LibFolder.dir
+/home/luis/Desktop/SETR/MyDLL/build/LibFolder/CMakeFiles/edit_cache.dir
+/home/luis/Desktop/SETR/MyDLL/build/LibFolder/CMakeFiles/rebuild_cache.dir

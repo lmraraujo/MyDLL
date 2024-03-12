@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/maindemo.dir/src/mainuser.c.o -o maindemo  LibFolder/libLibFolder.a 
